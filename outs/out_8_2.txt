@@ -1,0 +1,11 @@
+---Sorted Container---
+Container contains 1 elements:
+1: It's square matrix. Dimension = 2
+3.0 4.0 
+5.0 6.0 
+Average: 4.5
+
+
+Time sorted: 0.0013 s
+
+Time after clearing: 0.0013 s

@@ -1,0 +1,60 @@
+---Sorted Container---
+Container contains 9 elements:
+1: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+2: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+3: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+4: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+5: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+6: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+7: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+8: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+9: It's square matrix. Dimension = 3
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 
+Average: 5.0
+
+
+Time sorted: 0.0016 s
+
+Time after clearing: 0.0016 s

@@ -1,0 +1,8 @@
+Container contains 1 elements:
+1: It's square matrix. Dimension = 2
+3.0 4.0 
+5.0 6.0 
+Average: 4.5
+
+
+Time: 0.001 s

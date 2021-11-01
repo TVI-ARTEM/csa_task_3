@@ -1,0 +1,5 @@
+---Sorted Container---
+Container is empty.
+Time sorted: 0.0013 s
+
+Time after clearing: 0.0013 s

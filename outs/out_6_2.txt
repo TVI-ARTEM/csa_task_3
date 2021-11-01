@@ -1,0 +1,12 @@
+---Sorted Container---
+Container contains 1 elements:
+1: It's diagonal matrix. Dimension = 3
+1.0 0 0 
+0 2.0 0 
+0 0 3.0 
+Average: 0.6666666666666666
+
+
+Time sorted: 0.0015 s
+
+Time after clearing: 0.0016 s

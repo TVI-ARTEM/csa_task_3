@@ -1,0 +1,9 @@
+Container contains 1 elements:
+1: It's diagonal matrix. Dimension = 3
+1.0 0 0 
+0 2.0 0 
+0 0 3.0 
+Average: 0.6666666666666666
+
+
+Time: 0.0012 s
